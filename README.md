@@ -1,5 +1,5 @@
 # 🔥 WELCOME TO THE CODE DEN 🔥
-👏👏 It seems like you have found your way to my repository. Before you move on let's explore who I am.
+👏👏 Seems like you have found your way to my repository. Before you move on, let's explore who I am.
 ___
 ## 🌟 My Info
 😉 : __Napat Wattanasuttiwong__ (20) AKA __Gun__, __Kanya__, __ReklezWlthr__ or __MourningDew__
