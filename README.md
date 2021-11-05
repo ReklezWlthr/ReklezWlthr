@@ -28,7 +28,7 @@ __Back End__ :
 ![](https://img.shields.io/badge/Express-informational?style=flat&logo=Express&color=30302e)
 
 __Database__ : 
-![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=d98700&color=005c85)
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=005c85)
 ![](https://img.shields.io/badge/Oracle-informational?style=flat&logo=Oracle&color=d91b1d)
 ![](https://img.shields.io/badge/Mongodb-informational?style=flat&logo=Mongodb&logoColor=14aa51&color=011e2c)
 
