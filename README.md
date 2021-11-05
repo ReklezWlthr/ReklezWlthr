@@ -6,7 +6,7 @@ ___
 
 📚 : Third Year Student at __SIT__, __KMUTT__
 
-❤️ : Passionate about __JavaScript__ and __Game Design__
+❤️ : Passionate about __JavaScript__, __Japanese Language__ and __Game Designing__
 
 ✏️ : Am a __Fast Learner__. Like to Learn __Through Examples__.
 
@@ -34,10 +34,10 @@ __Database__ :
 ![](https://img.shields.io/badge/Oracle-informational?style=flat&logo=Oracle&color=d91b1d)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=Mongodb&logoColor=14aa51&color=011e2c)
 
-## 💻 My Current Projects
-### 📗 Old Almanac Projects – _Only Front End Available_
+## 💻 My Projects
+### 📗 Old Almanac Project – _Only Front End Available_
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reklezwlthr&repo=Almanac&theme=discord_old_blurple)](https://github.com/ReklezWlthr/Almanac)
-### 📘 Reworked Almanac Projects – _Full Stack Developer_
+### 📘 Reworked Almanac Project – _Full Stack Developer_
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=almanac-revamp&repo=almanac_frontend&theme=discord_old_blurple)](https://github.com/Almanac-Revamp/almanac_frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=almanac-revamp&repo=almanac_backend&theme=discord_old_blurple)](https://github.com/Almanac-Revamp/almanac_backend)
 ### 📙 ITCheatSheet – _Front-End Developer_
