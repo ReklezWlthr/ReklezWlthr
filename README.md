@@ -20,7 +20,7 @@ __Front End__ :
 ![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=8512f5)
 ![](https://img.shields.io/badge/TailwindCSS-informational?style=flat&logo=TailwindCSS&logoColor=white&color=14b4c0)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=30302e&color=e4d04b)
-![](https://img.shields.io/badge/Vue-informational?style=flat&logo=vue.js&logoColor=3fad7c&color=304558)
+![](https://img.shields.io/badge/Vue.js-informational?style=flat&logo=vue.js&logoColor=3fad7c&color=304558)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=00cdf2&color=172d3a)
 ![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=Next.js&color=1c252c)
 
@@ -32,7 +32,7 @@ __Back End__ :
 __Database__ : 
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=005c85)
 ![](https://img.shields.io/badge/Oracle-informational?style=flat&logo=Oracle&color=d91b1d)
-![](https://img.shields.io/badge/Mongodb-informational?style=flat&logo=Mongodb&logoColor=14aa51&color=011e2c)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=Mongodb&logoColor=14aa51&color=011e2c)
 
 ## 💻 My Current Projects
 ### 📗 Old Almanac Projects – _Only Front End Available_
