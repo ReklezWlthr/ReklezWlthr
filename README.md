@@ -2,7 +2,7 @@
 👏👏 It seems like you have found your way to my repository. Before you move on let's explore who I am.
 ___
 ## 🌟 My Info
-😉 : __Napat Wattanasuttiwong__ AKA __Gun__, __Kanya__, __ReklezWlthr__ or __MourningDew__
+😉 : __Napat Wattanasuttiwong__ (20) AKA __Gun__, __Kanya__, __ReklezWlthr__ or __MourningDew__
 
 📚 : Third Year Student at __SIT__, __KMUTT__
 
@@ -19,7 +19,7 @@ __Front End__ :
 ![](https://img.shields.io/badge/TailwindCSS-informational?style=flat&logo=TailwindCSS&logoColor=white&color=14b4c0)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=30302e&color=e4d04b)
 ![](https://img.shields.io/badge/Vue-informational?style=flat&logo=vue.js&logoColor=3fad7c&color=304558)
-![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&color=00cdf2)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=00cdf2&color=172d3a)
 ![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=Next.js&color=1c252c)
 
 __Back End__ : 
