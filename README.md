@@ -6,7 +6,7 @@ ___
 
 📚 : Third Year Student at __SIT__, __KMUTT__
 
-❤️ : Passionated in __JavaScript__ and __Game Design__
+❤️ : Passionate about __JavaScript__ and __Game Design__
 
 ✏️ : Am a __Fast Learner__. Like to Learn __Through Examples__.
 
