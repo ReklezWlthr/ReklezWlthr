@@ -8,6 +8,8 @@ ___
 
 ❤️ : Passionated in __JavaScript__ and __Game Design__
 
+✏️ : Am a __Fast Learner__. Like to Learn __Through Examples__.
+
 🌙 : Am a __Night Person__
 
 ## 🖥️ My Skills
