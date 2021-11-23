@@ -17,7 +17,7 @@ __More__ :
 ![](https://img.shields.io/badge/CodersRank-informational?style=flat&logo=codersrank&logoColor=19223d&color=67A4AC) : 
 [Click](https://profile.codersrank.io/user/reklezwlthr/)
 
-![](https://img.shields.io/badge/linkedin-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2) : 
+![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2) : 
 [Click](https://www.linkedin.com/in/napat-wattanasuttiwong-63790a223/)
 
 ## 🖥️ My Skills
