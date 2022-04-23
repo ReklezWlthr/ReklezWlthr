@@ -36,6 +36,7 @@ __Back End__ :
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=Java&color=de2b2e)
 ![](https://img.shields.io/badge/Spring_Boot-informational?style=flat&logo=SpringBoot&logoColor=white&color=66aa3b)
 ![](https://img.shields.io/badge/Express-informational?style=flat&logo=Express&color=30302e)
+![](https://img.shields.io/badge/Mongoose-informational?style=flat&logo=Mongodb&logoColor=white&color=880000)
 
 __Database__ : 
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=005c85)
@@ -50,6 +51,8 @@ __Database__ :
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=almanac-revamp&repo=almanac_backend&theme=discord_old_blurple)](https://github.com/Almanac-Revamp/almanac_backend)
 ### 📙 ITCheatSheet – _Front-End Developer_
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-cheat-sheet&repo=itcheatsheet-front-end&theme=discord_old_blurple)](https://github.com/IT-cheat-sheet/itcheatsheet-front-end)
+### 📕 Cookify – _Back-End Developer_
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cookify-webapp&repo=cookify-backend&theme=discord_old_blurple)](https://github.com/cookify-webapp/cookify-backend)
 
 ## ✨ Recent Activities
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reklezwlthr&exclude_repo=INT203_62130500023_groupwork_6,INT203_62130500023_groupwork_5,INT203_62130500023_groupwork_4,INT203_62130500023_groupwork_3,INT203_62130500023,INT203_62130500023_template,opsta-web,static-web,bookinfo-details,bookinfo-rating&langs_count=3&theme=discord_old_blurple)
