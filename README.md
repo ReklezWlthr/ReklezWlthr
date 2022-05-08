@@ -43,6 +43,10 @@ __Database__ :
 ![](https://img.shields.io/badge/Oracle-informational?style=flat&logo=Oracle&color=d91b1d)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=Mongodb&logoColor=14aa51&color=011e2c)
 
+__Test__ : 
+![](https://img.shields.io/badge/Cypress-informational?style=flat&logo=Cypress&color=454547)
+![](https://img.shields.io/badge/Jest-informational?style=flat&logo=Jest&color=9a405a)
+
 ## 💻 My Projects
 ### 📗 Old Almanac Project – _Only Front End Available_
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reklezwlthr&repo=Almanac&theme=discord_old_blurple)](https://github.com/ReklezWlthr/Almanac)
