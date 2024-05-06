@@ -4,7 +4,7 @@ ___
 ## 🌟 My Info
 😉 : __Napat Wattanasuttiwong__ (20) AKA __Gun__, __Kanya__, __ReklezWlthr__ or __MourningDew__
 
-📚 : Third Year Student at __SIT__, __KMUTT__
+📚 : Graduated from __SIT__, __KMUTT__
 
 ❤️ : Passionate about __JavaScript__, __Japanese Language__ and __Game Designing__
 
