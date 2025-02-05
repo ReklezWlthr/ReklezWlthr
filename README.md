@@ -1,7 +1,5 @@
 # 🔥 WELCOME TO THE CODE DEN 🔥
 👏👏 Seems like you have found your way to my repository.
-___
-## 🌟 Contact
 
 ![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2) : 
 [Click](https://www.linkedin.com/in/napat-wattanasuttiwong-63790a223/)
