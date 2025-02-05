@@ -1,5 +1,7 @@
 # 🔥 WELCOME TO THE CODE DEN 🔥
 👏👏 Seems like you have found your way to my repository.
+___
+## 🌟 Contact
 
 ![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2) : 
 [Click](https://www.linkedin.com/in/napat-wattanasuttiwong-63790a223/)
@@ -11,6 +13,7 @@ __Front End__ :
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=CSS3&logoColor=white&color=006ab0)
 ![](https://img.shields.io/badge/TailwindCSS-informational?style=flat&logo=TailwindCSS&logoColor=white&color=14b4c0)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=30302e&color=e4d04b)
+![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3075c0)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=00cdf2&color=172d3a)
 ![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=Next.js&color=1c252c)
 
